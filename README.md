@@ -1,4 +1,4 @@
-To start Expo server, run the following:
-
-cd activefy-client
-\nnpx expo start
+>To start Expo server, run the following:
+>
+>- cd activefy-client
+>- npx expo start
